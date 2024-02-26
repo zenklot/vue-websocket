@@ -18,7 +18,7 @@ const handleKoneksi = () => {
   if (ipConnect.value) {
     console.log('ip connect', ipConnect.value);
 
-    socket = new WebSocket(`ws://${ipConnect.value}:3000`)
+    socket = new WebSocket(`wss://${ipConnect.value}:3000`)
     socket.onmessage = (event) => {
       const message = JSON.parse(event.data);
       messages.push(message);
