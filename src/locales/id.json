@@ -1,0 +1,12 @@
+{
+  "hello": "Hallo",
+  "welcome": "Selamat Datang",
+  "send": "Kirim",
+  "connect": "Hubungkan",
+  "set_name": "Atur Nama",
+  "placeholder_app": {
+    "ip": "Internet Protocol Web Socket",
+    "username": "Nama Pengguna",
+    "message": "Pesan"
+  }
+}

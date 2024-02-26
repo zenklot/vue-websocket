@@ -1,0 +1,12 @@
+{
+  "hello": "Hallo",
+  "welcome": "Welcome",
+  "send": "Send",
+  "connect": "Connect",
+  "set_name": "Set Name",
+  "placeholder_app": {
+    "ip": "Internet Protocol Web Socket",
+    "username": "Username",
+    "message": "Message"
+  }
+}
